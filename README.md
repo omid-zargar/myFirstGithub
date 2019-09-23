@@ -1,2 +1,2 @@
 # myFirstGithub
-This for learning to work with github
+This is for learning to work with github
